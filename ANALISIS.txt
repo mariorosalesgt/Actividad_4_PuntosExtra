@@ -1,0 +1,11 @@
+Analizando Requerimientos del Problema
+
+El problema principal es que la empresa TK-U hace sus cotizaciones de manera manual, lo que les toma mucho tiempo y limita el número de clientes que pueden atender por día (máximo 50). Como resultado, están perdiendo posibles clientes.
+Para solucionar esto, se quiere automatizar el proceso con un programa que calcule el costo del seguro en función de ciertos factores, como la edad del asegurado, si está casado y la edad de su cónyuge, además de la cantidad de hijos que tenga.
+Doy un detalle de este punto a continuación
+
+1.Edad del asegurado: Dependiendo de su edad, se le aplica un porcentaje de recargo sobre el precio base.
+2.Estado civil: Si el asegurado está casado, también se evalúa la edad de su pareja y se le aplica un recargo similar.
+3.Cantidad de hijos: Cada hijo implica un recargo adicional al precio base.
+
+Estos factores influyen en el costo final del seguro, ya que mientras más alto sea el riesgo (por edad o responsabilidades familiares), mayor será la cotización

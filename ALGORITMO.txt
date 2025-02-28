@@ -1,0 +1,9 @@
+ALGORITMO DEL PROBLEMA DE LA ASEGURADORA
+
+1.	Pedir la edad del asegurado:  Si es menor de 18 años, se muestra un mensaje y se termina el proceso.
+2.	Preguntar si está casado:
+	Si responde que sí, se le pide la edad del cónyuge y se calcula su recargo según su edad.
+3.	Preguntar si tiene hijos:
+	Si responde que sí, se le pide la cantidad de hijos y se calcula su recargo.
+4.	Calcular el costo total sumando el precio base más los recargos.
+5.	Mostrar el resultado final con el precio del seguro.
